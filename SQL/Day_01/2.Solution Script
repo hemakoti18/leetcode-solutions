@@ -1,0 +1,10 @@
+-- Problem: Combine Two Tables
+-- Approach: Use LEFT JOIN to include persons without addresses
+
+select 
+    p.firstname,
+    p.lastname,
+    a.city,
+    a.state
+from person p
+left join address a on a.personid = p.personid ; 
