@@ -1,6 +1,4 @@
-# leetcode-solutions 
-
-# Daily Coding Challenges 
+# Leetcode-solutions 
 
 | Day  | Leetcode                                       | Tool   | Key Skills Practiced                |
 |------|------------------------------------------------|--------|-------------------------------------|
