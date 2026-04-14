@@ -1,0 +1,6 @@
+select 
+    c.name as customers    # give alias name as customers
+from customers c
+left join orders o        # used left join because we want customers where no orders
+   on o.customerId = c.id
+where o.id is null ;
