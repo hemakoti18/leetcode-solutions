@@ -1,6 +1,6 @@
 # Leetcode-solutions 
 
-| Day  | Leetcode                                       | Tool   | Key Skills Practiced                |
+| Day  | Leetcode                                       | Tool   | Techniques Appiled                |
 |------|------------------------------------------------|--------|-------------------------------------|
 | 01   | 175 Combine Two Tables                         | SQL    | Left join                           |
 | 02   | 176 Second Highest Salary                      | SQL    | Correlated Subquery                 |
